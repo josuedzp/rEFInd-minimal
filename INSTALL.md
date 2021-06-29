@@ -16,7 +16,7 @@
 
 ### Ubuntu
 
-``` $ sudo apt-get install refind ```
+  ` $ sudo apt-get install refind `
 
 ### Fedora
  1. Download rEFInd (download rpm) [here](https://sourceforge.net/projects/refind/files/)
